@@ -1,0 +1,60 @@
+#entte{
+    background-image: url(Image/WhatsApp\ Image\ 2025-12-26\ at\ 22.34.28.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 35vh;
+}
+#maine{
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+    padding: 50px 250px;
+    display: flex;
+    align-items: center;
+}
+#maine .photo img{
+    width: 100%;
+    height: auto;
+}
+header a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    text-transform: uppercase;
+    color: rgb(230, 216, 20);
+    display: block;
+    padding: 50px;
+    }
+h1{
+    font-family:"Staatliches", sans-serif;
+    font-size: 100px;
+    font-style: normal;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(230, 216, 20);
+    margin-top: 15px;
+}
+
+#intro{
+    font-family:"Montserrat", sans-serif;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+    display: flex;
+    margin: 0 auto;
+    display: block;
+    padding: 40px;
+    margin-bottom:30px;
+}
+#text{
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+    padding: 50px 250px;
+    display: flex;
+    align-items: center;
+}
+body{
+    margin-left: 0;
+    margin-right: 0;
+}
